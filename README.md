@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a self-taught web developer specialising in building (and occasionally designing) exceptional web applications, and everything in between.<br>I play around with Javascript, creating web interfaces with accessibility in mind , prioritising UX .<br><br>🔭 I’m currently working on my own Web3 Blog<br>👯 I’m looking to collaborate on more Web3 projects<br>🌱 I’m currently learning Solidity<br>💬 Ask me about Frontend, Web3 and more Tech<br>⚡ Fun fact : My other interests include Personal Finance, Business and Psychology
+I am a self-taught web developer specialising in building (and occasionally designing) exceptional web applications, and everything in between.I play around with Javascript, creating web interfaces with accessibility in mind , prioritising UX .<br><br>🔭 I’m currently working on my own Web3 Blog<br>👯 I’m looking to collaborate on more Web3 projects<br>🌱 I’m currently learning Solidity<br>💬 Ask me about Frontend, Web3 and more Tech<br>⚡ Fun fact : My other interests include Personal Finance, Business and Psychology
 
 
 ## 🌐 Socials:

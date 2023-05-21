@@ -10,11 +10,90 @@ I am a self-taught web developer specialising in building (and occasionally desi
 
 [![](https://visitcount.itsvg.in/api?id=SrinivasJoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 6. Project Name
+# My GitHub Projects
 
-![Project Name](project_image_6.jpg)
+Here are six of my GitHub projects:
 
-Description: This project is a multiplayer online game where players compete in virtual arenas. It utilizes real-time networking technologies to provide a seamless gaming experience.
+<div style="display: flex; flex-wrap: wrap;">
 
-GitHub Link: [Project Name](https://github.com/your-username/project-name)
+<!-- Project 1 -->
+<div style="border: 1px solid black; padding: 10px; margin: 10px; width: 30%;">
+  
+  ## Project Name 1
+  
+  ![Project Name 1](project_image_1.jpg)
+  
+  Description: This project is a web application that allows users to manage their tasks efficiently. It provides features such as task creation, assignment, and tracking.
+  
+  GitHub Link: [Project Name 1](https://github.com/your-username/project-name1)
+  
+</div>
+
+<!-- Project 2 -->
+<div style="border: 1px solid black; padding: 10px; margin: 10px; width: 30%;">
+  
+  ## Project Name 2
+  
+  ![Project Name 2](project_image_2.jpg)
+  
+  Description: This project is a machine learning model that predicts stock market trends based on historical data. It utilizes deep learning algorithms to make accurate predictions.
+  
+  GitHub Link: [Project Name 2](https://github.com/your-username/project-name2)
+  
+</div>
+
+<!-- Project 3 -->
+<div style="border: 1px solid black; padding: 10px; margin: 10px; width: 30%;">
+  
+  ## Project Name 3
+  
+  ![Project Name 3](project_image_3.jpg)
+  
+  Description: This project is a mobile app that helps users find nearby restaurants based on their cuisine preferences and location. It integrates with various APIs to provide real-time data.
+  
+  GitHub Link: [Project Name 3](https://github.com/your-username/project-name3)
+  
+</div>
+
+<!-- Project 4 -->
+<div style="border: 1px solid black; padding: 10px; margin: 10px; width: 30%;">
+  
+  ## Project Name 4
+  
+  ![Project Name 4](project_image_4.jpg)
+  
+  Description: This project is a data visualization tool that allows users to explore and analyze complex datasets. It provides interactive charts and graphs for easy data interpretation.
+  
+  GitHub Link: [Project Name 4](https://github.com/your-username/project-name4)
+  
+</div>
+
+<!-- Project 5 -->
+<div style="border: 1px solid black; padding: 10px; margin: 10px; width: 30%;">
+  
+  ## Project Name 5
+  
+  ![Project Name 5](project_image_5.jpg)
+  
+  Description: This project is a chatbot powered by natural language processing algorithms. It can answer frequently asked questions and provide automated customer support.
+  
+  GitHub Link: [Project Name 5](https://github.com/your-username/project-name5)
+  
+</div>
+
+<!-- Project 6 -->
+<div style="border: 1px solid black; padding: 10px; margin: 10px; width: 30%;">
+  
+  ## Project Name 6
+  
+  ![Project Name 6](project_image_6.jpg)
+  
+  Description: This project is a multiplayer online game where players compete in virtual arenas. It utilizes real-time networking technologies to provide a seamless gaming experience.
+  
+  GitHub Link: [Project Name 6](https://github.com/your-username/project-name6)
+  
+</div>
+
+</div>
+
 

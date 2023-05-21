@@ -15,23 +15,10 @@ A Comprehensive Guide to the CREATE2 Opcode in Solidity: [Blog-Post-5](https://m
 <br>
 
 # My Web3 Projects
-<a href="https://github.com/SrinivasJoshi/BizToken">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=BizToken&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/SrinivasJoshi/Hash-2-Win">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Hash-2-Win&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/SrinivasJoshi/cosmo-nfts">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=cosmo-nfts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/SrinivasJoshi/Music-NFTs">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Music-NFTs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=BizToken)](https://github.com/SrinivasJoshi/BizToken)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Hash-2-Win)](https://github.com/SrinivasJoshi/Hash-2-Win)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=cosmo-nfts)](https://github.com/SrinivasJoshi/cosmo-nfts)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Music-NFTs)](https://github.com/SrinivasJoshi/Music-NFTs)
 <br>
 
 # 💻 Tech Stack:

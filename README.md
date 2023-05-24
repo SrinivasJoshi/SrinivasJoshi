@@ -19,6 +19,7 @@ A Comprehensive Guide to the CREATE2 Opcode in Solidity: [Blog-Post-5](https://m
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Hash-2-Win)](https://github.com/SrinivasJoshi/Hash-2-Win)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=cosmo-nfts)](https://github.com/SrinivasJoshi/cosmo-nfts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Music-NFTs)](https://github.com/SrinivasJoshi/Music-NFTs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=library-management-solidity)](https://github.com/SrinivasJoshi/library-management-solidity)
 <br>
 
 # 💻 Tech Stack:

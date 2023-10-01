@@ -2,16 +2,16 @@
 I am a self-taught web developer specialising in building (and occasionally designing) exceptional web applications, and everything in between.I play around with Javascript, creating web interfaces with accessibility in mind , prioritising UX .<br><br>🔭 I’m currently working on my own Web3 projects<br>👯 I’m looking to collaborate on more Web3 projects<br>🌱 I’m currently learning Solidity in depth<br>💬 Ask me about Frontend, Web3 and more Tech<br>⚡ Fun fact : My other interests include Personal Finance, Business and Psychology
 
 [![](https://visitcount.itsvg.in/api?id=SrinivasJoshi&icon=0&color=0)](https://visitcount.itsvg.in)
-# 📩 Most viewed blog posts
-Solidity Smackdown: Can You Answer These 7 Tricky Interview Questions? : [Blog-Post-1](https://medium.com/coinsbench/solidity-smackdown-can-you-answer-these-7-tricky-interview-questions-f3fc01530276)
+# 📩 Blog posts
+Solidity Smackdown: Can You Answer These **7 Tricky Interview Questions**? : [Blog-Post-1](https://medium.com/coinsbench/solidity-smackdown-can-you-answer-these-7-tricky-interview-questions-f3fc01530276)
 <br>
-Understanding the difference between transfer ,send and call in solidity: [Blog-Post-2](https://medium.com/coinsbench/understanding-the-difference-between-transfer-send-and-call-in-solidity-53b592efb4d1)
+Understanding the difference between **transfer ,send and call in solidity**: [Blog-Post-2](https://medium.com/coinsbench/understanding-the-difference-between-transfer-send-and-call-in-solidity-53b592efb4d1)
 <br>
-Reentrancy attacks and how to deal with them : [Blog-Post-3](https://medium.com/coinsbench/reentrancy-attacks-and-how-to-deal-with-them-16da3a2549)
+**Reentrancy attacks** and how to deal with them : [Blog-Post-3](https://medium.com/coinsbench/reentrancy-attacks-and-how-to-deal-with-them-16da3a2549)
 <br>
-The Top 3 Tech Advancements That Will Skyrocket Web3 Growth in the Next 3 Years :[Blog-Post-4](https://medium.com/coinmonks/the-top-3-tech-advancements-that-will-skyrocket-web3-growth-in-the-next-3-years-6abc039be0a8)
+The Top 3 Tech Advancements That Will **Skyrocket Web3 Growth** in the Next 3 Years :[Blog-Post-4](https://medium.com/coinmonks/the-top-3-tech-advancements-that-will-skyrocket-web3-growth-in-the-next-3-years-6abc039be0a8)
 <br>
-A Comprehensive Guide to the CREATE2 Opcode in Solidity: [Blog-Post-5](https://medium.com/coinsbench/a-comprehensive-guide-to-the-create2-opcode-in-solidity-7c6d40e3f1af)
+A Comprehensive Guide to the **CREATE2 Opcode** in Solidity: [Blog-Post-5](https://medium.com/coinsbench/a-comprehensive-guide-to-the-create2-opcode-in-solidity-7c6d40e3f1af)
 <br>
 
 # My Web3 Projects

@@ -16,6 +16,7 @@ A Comprehensive Guide to the **CREATE2 Opcode** in Solidity: [Blog-Post-5](https
 
 # My Web3 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Dappify)](https://github.com/SrinivasJoshi/Dappify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Dappify)](https://github.com/SrinivasJoshi/Reactify)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=epic-wars)](https://github.com/SrinivasJoshi/epic-wars)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=BizToken)](https://github.com/SrinivasJoshi/BizToken)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SrinivasJoshi&repo=Hash-2-Win)](https://github.com/SrinivasJoshi/Hash-2-Win)
